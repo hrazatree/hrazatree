@@ -2,7 +2,7 @@
 - 👀 I’m interested in Insurtech and Venture Building
 - 🌱 I’m currently learning RAG
 - 💞️ I’m looking to collaborate on Machine Learning for Insurtech
-- 📫 How to reach me maxraza77@gmail.com, hraza@tawuniya.com, hraza@tree.com.sa
+- 📫 How to reach me maxraza77@gmail.com
 - 😄 Pronouns: max
 - ⚡ Fun fact: Father of 4!
 
